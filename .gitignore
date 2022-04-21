@@ -22,3 +22,6 @@ profile
 
 # finder
 .DS_Store
+
+.swiftpm
+Package.resolved
